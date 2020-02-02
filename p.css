@@ -1,0 +1,150 @@
+body {
+    font-family: comic sans ms;
+}
+a:hover{
+    background-color:rgba(255,0,75, 0.5);
+    opacity: 0.9;
+}
+.rajasthan{
+    height: 700px;
+    width: 100%;
+    background: url(lahore.jpg);
+    display: block;
+    
+    font-family: comic sans ms;
+}
+.heading{
+    text-align: center;
+    color:red;
+    
+}
+.rajasthan h1{
+    padding-top: 50px;
+    font-size: 70px;
+    text-decoration:underline solid gold;
+    
+}
+
+
+.features h2{
+    padding-left: 1000px;
+    font-size:45px;
+    color: seashell;
+}
+.features ul{
+    padding-left: 1000px;
+    font-size: 30px;
+    color: springgreen;
+
+}
+.reg h2{
+    color:black;
+    font-size: 35px;
+}
+ .reg{
+    padding-left: 100px;
+    text-align : center;
+    }
+.reg a{
+    color:gold;
+    border: 2px solid black;
+    background-color: grey;
+    padding: 5px 10px ;
+}
+.jammu{
+    height: 800px;
+    width: 100%;
+    
+    background-image: url(dal.jpg);
+    display: inline-block;
+}
+.jammu h1{
+    color:blue;
+    text-align: center;
+    padding-top: 80px;
+    text-decoration: underline solid red;
+    font-size: 50px;
+}
+.jammu h3{
+    text-align: center;
+    color: blueviolet;
+}
+.jfeatures
+{
+    padding-left: 900px;
+    margin-left: 30px;
+}
+.jfeatures h2{
+    font-size: 45px;
+    color: red;
+}
+.jfeatures ul{
+    font-size: 30px;
+    color:springgreen;
+}
+
+.jreg h2{
+    color:white;
+    font-size: 35px;
+    text-align: center;
+
+
+}
+.jreg{
+    padding-left: 100px;
+    text-align: center;
+    
+    
+}
+.jreg a{
+    color: gold;
+    border: 2px solid black;
+    background-color:green;
+    padding: 5px 10px ;
+}
+.goa{
+    height: 800px;
+    width: 100%;
+    background: url(beach.jpg);
+    display: inline-block;
+}
+.goa h1{
+    color: red;
+    text-align: center;
+    padding-top: 80px;
+    text-decoration: underline solid black;
+    font-size: 70px;
+}
+.goa h3{
+    text-align: center;
+    color:green;
+}
+.gfeatures
+{
+    padding-left: 900px;
+    margin-left: 30px;
+}
+.gfeatures h2{
+    font-size: 45px;
+    color:green;
+}
+.gfeatures ul{
+    font-size: 30px;
+    color:rgb(25, 0, 255);
+}
+.greg h2{
+    color:black;
+    font-size: 35px;
+}
+.greg{
+    padding-left: 100px;
+    text-align: center;
+    
+    
+}
+.greg a{
+    color:yellow;
+    border: 2px solid black;
+    background-color: green;
+    padding: 5px 10px ;
+}
